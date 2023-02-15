@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: center;
+background-color: gainsboro;}
+
+
+.navbar{
+    text-align: center;
+}
+
+.foto1{
+width: 400px;
+height: 350px;
+background-color: white;
+margin-bottom: 20px;
+
+}
+
+.header1{height: 30px;
+   display: flex;
+   justify-content: space-between;
+   margin-left: 10px;
+   margin-right: 10px; 
+  align-items: center;
+}
+.image1{
+    padding-top: 5px;
+    width: 100%;
+    margin-bottom: -10px;
+    
+}
+img{
+    height: 280px;
+}
+p{font-size: 10px;
+padding-left: 20px;}
+
+
+span{color: grey;
+font-size: 12px;}
